@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/arko/Documents/Striver/Striver_practice",
+      "program": "/Users/arko/Documents/Striver/Striver_practice/build/Debug/outDebug"
+    }
+  ]
+}
