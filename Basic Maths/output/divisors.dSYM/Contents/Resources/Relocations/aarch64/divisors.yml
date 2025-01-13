@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/arko/Documents/Striver/Striver_practice/Basic Maths/output/divisors'
+relocations:     []
+...
